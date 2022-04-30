@@ -138,7 +138,6 @@ img {
   margin-top: 28px;
   border-radius: 2px;
   background: var(--accent-color-text);
-  border: 1px;
 }
 .link:hover::after{
 content: "";
